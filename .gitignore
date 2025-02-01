@@ -1,0 +1,40 @@
+# PyCharm specific files
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging files
+*.egg
+*.egg-info
+dist/
+build/
+
+# Logs
+*.log
+
+# Test coverage reports
+coverage/
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python build directories
+*.egg-info/
+*.dist-info/
+
+# Other system files
+.DS_Store
+Thumbs.db
+
+# Configuration and IDE files
+*.iml
