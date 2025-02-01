@@ -1,6 +1,7 @@
 # File Management Script
 
 This Python script provides a set of functions to manage files in various ways. The script includes operations such as copying, deleting, counting, renaming files, and analyzing directories. It also supports recursive operations when needed.
+README is also available in [Russian](README.ru.md)
 
 ## Functions Overview
 
